@@ -111,3 +111,5 @@ The original app was built by [Zach Gollwitzer](https://twitter.com/zg_dev), [Ni
 ## Copyright & license
 
 Maybe is distributed under an [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE). "Maybe" is a trademark of Maybe Finance, Inc.
+
+# maybe
